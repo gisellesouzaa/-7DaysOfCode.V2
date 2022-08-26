@@ -1,21 +1,11 @@
 <h1 align="center">7 Days Of Code</h1>
 
-<p align="center">
- <a href="#-tecnologias">Tecnologias</a> •
- <a href="#-demo">Demo</a> •
- <a href="#autor">Autor</a>
-</p>
-
 <p align="center">Nessa página está as minhas resoluções dos desafios de Lógica de Programação propostos pela Rafaella Ballerini nos '7 Days Of Code' da Alura.</p>
-
----
 
 <h1 align="center">
   <img alt="Gif com a demostração da página" title="Gif 7 Days Of Code" src="./Demo7daysOfCode.gif"/>
 </h1>
 
----
- 
 ### 🛠 Tecnologias:
 
 As seguintes ferramentas foram usadas na construção do projeto:
