@@ -11,7 +11,7 @@
 ---
 
 <h1 align="center">
-  <img alt="Gif com a demostração da página" title="Gif 7 Days Of Code" src="./Demo7daysOfCode.gif" height="425"/>
+  <img alt="Gif com a demostração da página" title="Gif 7 Days Of Code" src="./Demo7daysOfCode.gif"/>
 </h1>
 
 ---
